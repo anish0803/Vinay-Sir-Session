@@ -1,0 +1,30 @@
+html,*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 10% auto 10%;
+}
+
+.icon{
+    font-size: xx-large;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.cart{
+    display: flex;
+}
+
+main{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+} */
